@@ -1,0 +1,7 @@
+C:\_github\Coterie\Coterie_Data\bin\Debug\Coterie_Data.dll
+C:\_github\Coterie\Coterie_Data\bin\Debug\Coterie_Data.pdb
+C:\_github\Coterie\Coterie_Data\bin\Debug\Coterie_Models.dll
+C:\_github\Coterie\Coterie_Data\bin\Debug\Coterie_Models.pdb
+C:\_github\Coterie\Coterie_Data\obj\Debug\Coterie_Data.csprojResolveAssemblyReference.cache
+C:\_github\Coterie\Coterie_Data\obj\Debug\Coterie_Data.dll
+C:\_github\Coterie\Coterie_Data\obj\Debug\Coterie_Data.pdb

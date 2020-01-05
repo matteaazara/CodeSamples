@@ -1,0 +1,9 @@
+C:\_github\Coterie\Coterie_Test\bin\Debug\Coterie_Test.dll
+C:\_github\Coterie\Coterie_Test\bin\Debug\Coterie_Test.pdb
+C:\_github\Coterie\Coterie_Test\bin\Debug\Coterie_Models.dll
+C:\_github\Coterie\Coterie_Test\bin\Debug\nunit.framework.dll
+C:\_github\Coterie\Coterie_Test\bin\Debug\Coterie_Models.pdb
+C:\_github\Coterie\Coterie_Test\bin\Debug\nunit.framework.xml
+C:\_github\Coterie\Coterie_Test\obj\Debug\Coterie_Test.csprojResolveAssemblyReference.cache
+C:\_github\Coterie\Coterie_Test\obj\Debug\Coterie_Test.dll
+C:\_github\Coterie\Coterie_Test\obj\Debug\Coterie_Test.pdb

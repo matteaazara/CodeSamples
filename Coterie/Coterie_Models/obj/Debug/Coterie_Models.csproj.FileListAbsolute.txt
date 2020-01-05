@@ -1,0 +1,4 @@
+C:\_github\Coterie\Coterie_Models\bin\Debug\Coterie_Models.dll
+C:\_github\Coterie\Coterie_Models\bin\Debug\Coterie_Models.pdb
+C:\_github\Coterie\Coterie_Models\obj\Debug\Coterie_Models.dll
+C:\_github\Coterie\Coterie_Models\obj\Debug\Coterie_Models.pdb
