@@ -28,7 +28,7 @@ namespace Coterie.Controllers
                 return BadRequest("An error occurred in calculation");
             }
 
-            return Ok(premium);
+            return Json(premium);
         }
     }
 }
